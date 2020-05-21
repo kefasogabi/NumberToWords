@@ -1,0 +1,7 @@
+C:\Users\Kefas\Desktop\Extension\Extension\bin\Debug\Extension.exe.config
+C:\Users\Kefas\Desktop\Extension\Extension\bin\Debug\Extension.exe
+C:\Users\Kefas\Desktop\Extension\Extension\bin\Debug\Extension.pdb
+C:\Users\Kefas\Desktop\Extension\Extension\obj\Debug\Extension.csprojAssemblyReference.cache
+C:\Users\Kefas\Desktop\Extension\Extension\obj\Debug\Extension.csproj.CoreCompileInputs.cache
+C:\Users\Kefas\Desktop\Extension\Extension\obj\Debug\Extension.exe
+C:\Users\Kefas\Desktop\Extension\Extension\obj\Debug\Extension.pdb
